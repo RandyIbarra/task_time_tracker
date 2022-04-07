@@ -1,5 +1,3 @@
-# Task Time Tracker App (By [Mixtemi](mixtemi.com))
+# Task Time Tracker App
 
-```
-code
-```
+Track your task time and save your data for analysis.
