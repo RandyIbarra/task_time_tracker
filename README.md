@@ -1,4 +1,4 @@
-# Task Time Tracker App (By [mixtemi.com](Mixtemi))
+# Task Time Tracker App (By [Mixtemi](mixtemi.com))
 
 ```
 code
