@@ -1,0 +1,101 @@
+[
+    {
+        "task_index": 1,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649305042.331778,
+        "time": 0.0007615089416503906,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 2,
+        "xid": 41943043,
+        "title": "AnyDesk",
+        "init": 1649305049.295885,
+        "time": 0.0006613731384277344,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 3,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649305053.7486806,
+        "time": 0.0007967948913574219,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 4,
+        "xid": 41943043,
+        "title": "AnyDesk",
+        "init": 1649305056.073005,
+        "time": 0.00037360191345214844,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 5,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649305062.9138923,
+        "time": 0.0010075569152832031,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 6,
+        "xid": 41943043,
+        "title": "AnyDesk",
+        "init": 1649305065.4575462,
+        "time": 0.0003402233123779297,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 7,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649307168.9428601,
+        "time": 0.002549409866333008,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 8,
+        "xid": 0,
+        "title": null,
+        "init": 1649307175.44664,
+        "time": 5.9604644775390625e-05,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 9,
+        "xid": 37748741,
+        "title": "Sin t\u00c3\u00adtulo - Google Chrome",
+        "init": 1649307176.285641,
+        "time": 0.00045680999755859375,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 9,
+        "xid": 37748741,
+        "title": "Google - Google Chrome",
+        "init": 1649307176.285641,
+        "time": 1.1140727996826172,
+        "task": "checking_model_error",
+        "project": "thesis"
+    },
+    {
+        "task_index": 10,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649307180.0239744,
+        "time": 0.0006201267242431641,
+        "task": "checking_model_error",
+        "project": "thesis"
+    }
+]
