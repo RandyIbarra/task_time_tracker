@@ -1,0 +1,47 @@
+[
+    {
+        "task_index": 1,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649307331.6904185,
+        "time": 0.0006973743438720703,
+        "task": "model_error_images",
+        "project": "thesis"
+    },
+    {
+        "task_index": 2,
+        "xid": 41943043,
+        "title": "AnyDesk",
+        "init": 1649307333.955515,
+        "time": 0.0003559589385986328,
+        "task": "model_error_images",
+        "project": "thesis"
+    },
+    {
+        "task_index": 3,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649307815.347886,
+        "time": 0.0009233951568603516,
+        "task": "model_error_images",
+        "project": "thesis"
+    },
+    {
+        "task_index": 3,
+        "xid": 35651590,
+        "title": "Terminal",
+        "init": 1649307815.347886,
+        "time": 27.493553400039673,
+        "task": "model_error_images",
+        "project": "thesis"
+    },
+    {
+        "task_index": 3,
+        "xid": 35651590,
+        "title": "randy@randy-Aspire-E1-430P: ~/task_time_tracker",
+        "init": 1649307815.347886,
+        "time": 28.20875835418701,
+        "task": "model_error_images",
+        "project": "thesis"
+    }
+]
